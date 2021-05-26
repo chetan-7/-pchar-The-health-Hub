@@ -1,0 +1,15 @@
+button.otpcode{
+  background-color:#FF4500;
+  border: 1px solid #FF4500;
+  border-radius : 4px;
+  color:white;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.otpcode:hover {
+	background-color: #ff0040;
+	border: 1px solid #ff0040;
+  	color: white;
+	cursor: pointer;
+
+}
